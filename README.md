@@ -1,1 +1,3 @@
-# 1st_appium_webDio_test
+#Install dependencies
+npm install 
+
