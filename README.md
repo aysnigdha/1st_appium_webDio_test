@@ -1,5 +1,7 @@
-#Install dependencies
+###Install dependencies
 
 
-`npm install`
+```
+npm install
+```
 
